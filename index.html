@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legend Cinema - Online Ticketing</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="bank.jpg">
+    <!-- External Libraries for QR Code and PDF generation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+
+    <header class="navbar">
+        <!-- Google Translate Widget Container -->
+        <div id="google_translate_element"></div>
+        
+        <div class="logo">
+            <!-- Added Logo Image -->
+            <img src="logo.jpg" alt="Legend Cinema Logo" class="logo-img">
+            <span>LEGEND CINEMA</span>
+        </div>
+        <div id="currentDateDisplay" class="date-badge">Loading daily feed...</div>
+    </header>
+
+    <main class="container">
+
+        <!-- STEP 1: MOVIE / COURSE SELECTION -->
+        <section id="movieSelection" class="view-section active">
+            <h2 class="section-title">Now Showing Daily Schedule</h2>
+            <div id="movieGrid" class="movie-grid"></div>
+        </section>
+
+        <!-- STEP 2: SEAT SELECTION -->
+        <section id="seatSelectionSec" class="view-section hidden">
+            <button id="backToMoviesFromSeats" class="btn-back">← Back to Schedule</button>
+            <h2 id="seatMovieTitle" class="section-title">Select Your Seats</h2>
+            
+            <div class="cinema-screen">SCREEN</div>
+            <div id="seatGrid" class="seat-grid"></div>
+
+            <div class="seat-legend">
+                <span><span class="legend-box available"></span> Available</span>
+                <span><span class="legend-box selected"></span> Selected</span>
+                <span><span class="legend-box occupied"></span> Occupied</span>
+            </div>
+
+            <div class="seat-summary-bar">
+                <div>Selected Seats: <strong id="selectedSeatsList">None</strong></div>
+                <div>Total: <strong id="seatTotalPrice">$0.00</strong></div>
+                <button id="proceedToCheckoutBtn" class="btn-primary" disabled>Proceed to Checkout</button>
+            </div>
+        </section>
+
+        <!-- STEP 3: CHECKOUT -->
+        <section id="checkoutSection" class="view-section hidden">
+            <button id="backToMovies" class="btn-back">← Back to Seat Selection</button>
+            <h2 class="section-title">Checkout Summary</h2>
+
+            <div class="checkout-card">
+                <!-- Added Image Container for Checkout -->
+                <div class="checkout-image-wrapper" id="checkoutImageWrapper">
+                    <img id="summaryImage" src="https://media.jellyjelly.app/legend-prod/87a79c48-2492-4519-a46c-ff1471e29c9d.jpg" alt="Selected Item Thumbnail" class="checkout-image" />
+                </div>
+
+                <div class="summary-details">
+                    <p>Title: <strong id="summaryMovie">-</strong></p>
+                    <p>Schedule: <strong id="summaryTime">-</strong></p>
+                    <p>Seats / Slots: <strong id="summarySeats">-</strong></p>
+                    <p>Total Amount: <strong id="summaryPrice" class="price-highlight">$0.00</strong></p>
+                </div>
+
+                <div class="payment-methods">
+                    <div class="tab-header">
+                        <button class="pay-tab active" data-target="cardPayment">Credit Card</button>
+                        <button class="pay-tab" data-target="qrPayment">KHQR / ABA</button>
+                    </div>
+
+                    <div id="cardPayment" class="pay-content active">
+                        <input type="text" id="cardNumber" placeholder="Card Number (e.g. 4532 1234 5678 9010)" maxlength="19">
+                        <button id="payCardBtn" class="btn-primary full-width">Pay Now</button>
+                    </div>
+
+                    <div id="qrPayment" class="pay-content">
+                        <p>Scan to pay via ABA / KHQR Banking App</p>
+                        <div class="qr-placeholder">📲 Scan KHQR</div>
+                        <button id="payQrBtn" class="btn-primary full-width">Confirm Payment</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- STEP 4: SUCCESS / CONFIRMATION -->
+        <section id="successSection" class="view-section hidden">
+            <div class="success-card">
+                <h2>🎉 Booking Confirmed!</h2>
+                
+                <!-- Added Confirmed Poster Preview -->
+                <div class="confirmed-image-wrapper">
+                    <img id="confirmedImage" src="https://media.jellyjelly.app/legend-prod/55d5965b-d463-4458-a47d-277e3fea3dc4.jpg" alt="Ticket Poster" class="confirmed-image" />
+                </div>
+
+                <div id="ticketQrContainer" class="qr-code-container"></div>
+                
+                <div class="ticket-info">
+                    <p>Ticket ID: <strong id="confirmedTicketId">-</strong></p>
+                    <p>Title: <strong id="confirmedMovie">-</strong></p>
+                    <p>Showtime: <strong id="confirmedTime">-</strong></p>
+                    <p>Seats: <strong id="confirmedSeats">-</strong></p>
+                    <p>Amount Paid: <strong id="confirmedPrice">-</strong></p>
+                </div>
+
+                <div class="action-buttons">
+                    <button id="downloadReceiptBtn" class="btn-primary">Download PDF Receipt</button>
+                    <button id="resetBookingBtn" class="btn-secondary-outline">Book Another Item</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- BOOKING HISTORY -->
+        <section class="history-section">
+            <div class="history-header">
+                <h3>Your Past Bookings</h3>
+                <button id="clearHistoryBtn" class="btn-danger-link">Clear History</button>
+            </div>
+            <div id="bookingHistoryList" class="history-list"></div>
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+    <script src="translate.js"></script>
+    <script src="ulltra_secure_mode.js"></script>
+</body>
+</html>

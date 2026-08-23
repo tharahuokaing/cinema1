@@ -75,7 +75,7 @@
         {
             title: "Node.js & Express Backend Security (ប្រព័ន្ធសុវត្ថិភាព Backend)",
             genre: "Cybersecurity / Backend • ",
-            price: 10000000.00,
+            price: 1000000.00,
             icon: "🛡️",
             imageSrc: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=500&q=80",
             time: "06:00 PM",

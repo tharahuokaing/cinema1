@@ -9,7 +9,16 @@
 
     // Daily movie schedule feed
     const dailyMovies = [
-         {
+        {
+            title: "Mannieque Wedding (ភ្លើងឆេះក្លឹបក្រោមដី)",
+            genre: "Horror, Thriller • 2h 00m",
+            price: 4.00,
+            icon: "🏚️",
+            imageSrc: "/images/mannieque-wedding.jpg",
+            time: "12: 00 PM",
+            trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
+        },
+        {
             title: "Godzilla x Kong: The New Empire",
             genre: "Action / Sci-Fi • 1h 55m",
             price: 6.50,

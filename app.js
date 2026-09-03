@@ -81,14 +81,23 @@
             time: "08:30 PM",
             trailerUrl: "https://youtu.be/ORyi6tTMNqE?si=CXt0OqWkSnhs0q75"
         },
-        {
+                {
             title: "Node.js & Express Backend Security (ប្រព័ន្ធសុវត្ថិភាព Backend)",
             genre: "Cybersecurity / Backend • ",
             price: 1000000.00,
             icon: "🛡️",
             imageSrc: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=500&q=80",
-            time: "06:00 PM",
+            time: "12:00 PM",
             trailerUrl: "https://www.javhdporn.net/v2/video/start-220/"
+        },
+        {
+            title: "Node.js & Express Backend Security 1 (ប្រព័ន្ធសុវត្ថិភាព Backend 1)",
+            genre: "Cybersecurity / Backend • ",
+            price: 1000000.00,
+            icon: "🛡️",
+            imageSrc: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=500&q=80",
+            time: "12:00 PM",
+            trailerUrl: "https://www.pornhub.com/view_video.php?viewkey=680bf9fdb754a"
         }
     ];
 

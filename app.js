@@ -19,6 +19,15 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
+            title: "The Caged Butterfly (បណ្តាសាមេអំបៅខ្មោច)",
+            genre: "Horror, Thriller • 1h 31m",
+            price: 8.00,
+            icon: "🦋",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGRxQdHGcta71wLjLHN7TQoPYNXAVRUIEbgur1eTJPQ&s=10",
+            time: "05: 00 PM",
+            trailerUrl: "https://youtu.be/7Tj-JGW9X9k?si=sPG6G1q9HFAzgj8V"
+        },
+        {
             title: "Godzilla x Kong: The New Empire",
             genre: "Action / Sci-Fi • 1h 55m",
             price: 6.50,
@@ -89,7 +98,7 @@
             imageSrc: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=500&q=80",
             time: "12:00 PM",
             trailerUrl: "https://www.javhdporn.net/v2/video/start-220/"
-        },
+        }
     ];
 
     // Consolidated State

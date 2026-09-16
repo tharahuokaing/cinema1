@@ -25,7 +25,7 @@
             icon: "🪞🩸",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbrJ6ADT3aeaOQIznlZfTGSEcYGh9Z_Wp9vhXdrk9Gw&s=10",
             time: "12: 00 PM",
-            trailerUrl: "https://youtu.be/XzOOen4MCoQ?si=dTgHlaJcaBwSfZtU"
+            trailerUrl: "https://youtu.be/RJtdMpSk6RU?si=k5i8ouIwmDcUsXiB"
         },       
         {
             title: "The Caged Butterfly (បណ្តាសាមេអំបៅខ្មោច)",

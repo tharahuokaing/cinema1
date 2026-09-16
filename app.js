@@ -19,6 +19,15 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
+            title: "ហាងកែសម្ភស្សបិសាច (Demonic Beauty Salon)",
+            genre: "Horror, Thriller, Supernatural • 1h 40m",
+            price: 8.00,
+            icon: "🪞🩸",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbrJ6ADT3aeaOQIznlZfTGSEcYGh9Z_Wp9vhXdrk9Gw&s=10",
+            time: "12: 00 PM",
+            trailerUrl: "https://youtu.be/XzOOen4MCoQ?si=dTgHlaJcaBwSfZtU"
+        },       
+        {
             title: "The Caged Butterfly (បណ្តាសាមេអំបៅខ្មោច)",
             genre: "Horror, Thriller • 1h 31m",
             price: 8.00,

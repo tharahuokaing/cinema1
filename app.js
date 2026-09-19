@@ -19,7 +19,7 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
-            title: "អ្នកស្នងអាគារ",
+            title: "Tenement (អ្នកស្នងអាគារ)",
             genre: "Horror, Thriller, Supernatural • 1h 28m",
             price: 8.00,
             icon: "🏢👻",

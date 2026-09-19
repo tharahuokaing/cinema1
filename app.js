@@ -22,7 +22,7 @@
             title: "អ្នកស្នងអាគារ",
             genre: "Horror, Thriller, Supernatural • 1h 28m",
             price: 8.00,
-            icon: "🪞🩸",
+            icon: "🏢👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNmRzMxOKY6JjQ99ckB8Stdk8fiCv9Hjw-TnP240N1g&s=10",
             time: "12: 00 PM",
             trailerUrl: "https://youtu.be/_9-FZ_HGi_Y?si=j0focIUVv70c5EwD"

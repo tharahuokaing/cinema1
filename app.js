@@ -19,6 +19,24 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
+            title: "After 79 House (ផ្ទះក្រោយ៧៩)",
+            genre: "Horror, Thriller, Supernatural • 1h 21m",
+            price: 8.00,
+            icon: "🏢👻",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-p7uZulQyj78q4nchFvyvj8xsRQKIEQuFs1eSwC9SQ&s=10",
+            time: "11: 00 PM",
+            trailerUrl: "https://youtu.be/-bs-mxsd3qE?si=09m8BZh0cBLzXh86"
+        },
+        {
+            title: "Titisan Setan 2 (ខ្មោចយកព្រលឹង)",
+            genre: "Horror, Thriller, Supernatural • 1h 28m",
+            price: 8.00,
+            icon: "🏢👻",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsryHicW8GXIhvkolzZmm0oZ5lDDOJGD2aQzZewDewwQ&s",
+            time: "10: 00 PM",
+            trailerUrl: "https://youtu.be/hee9jTj9RAs?si=jwM9jGaP_kQRH-Z9"
+        },
+        {
             title: "Tenement (អ្នកស្នងអាគារ)",
             genre: "Horror, Thriller, Supernatural • 1h 28m",
             price: 8.00,
@@ -36,15 +54,6 @@
             time: "12: 00 PM",
             trailerUrl: "https://youtu.be/RJtdMpSk6RU?si=k5i8ouIwmDcUsXiB"
         },       
-        {
-            title: "The Caged Butterfly (បណ្តាសាមេអំបៅខ្មោច)",
-            genre: "Horror, Thriller • 1h 31m",
-            price: 8.00,
-            icon: "🦋",
-            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGRxQdHGcta71wLjLHN7TQoPYNXAVRUIEbgur1eTJPQ&s=10",
-            time: "05: 00 PM",
-            trailerUrl: "https://youtu.be/7Tj-JGW9X9k?si=sPG6G1q9HFAzgj8V"
-        },
         {
             title: "Cyber Heist",
             genre: "Thriller / Cyberpunk • 1h 55m",
@@ -71,15 +80,6 @@
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAuGvt9QeunLrlIVwjdgx6340wUkOD_s71VvJMT1QhJA&s=10",
             time: "11:00 PM",
             trailerUrl: "https://youtu.be/Q8uJ2jtgHOw?si=qIzGbQ9etLekhdjT"
-        },
-        {
-            title: "The Snake King's Child (កូនពស់កេងកង)",
-            genre: "Dark Fantasy / Horror • 2h 05m",
-            price: 4.50,
-            icon: "🐍",
-            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJgzit2pYmI9aNHrU7tFqKmEwwdvmWMMHKHyVKasv0A&s=10",
-            time: "12:30 AM",
-            trailerUrl: "https://youtu.be/KQlf6QyjY8A?si=3S_DYy2qCgpPRbNE"
         },
         {
             title: "Full-Stack Web Development: MERN Stack (អភិវឌ្ឍន៍វេបសាយ MERN)",

@@ -35,7 +35,7 @@ To run this project locally, follow these simple steps:
 
 1. **Clone the repository**:
 
-git clone https://github.com/your-username/legend-cinema-ticketing.git
+git clone https://tharahuokaing.github.io/cinema1.git
 
 2. **Navigate to the project directory**:
 

@@ -19,6 +19,15 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
+            title: "The Hole (ខ្មោចប្រហោងពោះ​ )",
+            genre: "Horror, Thriller • 1h 40m",
+            price: 8.00,
+            icon: "👻",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwl0tV8KzFvLIsBsFHUNY9XsUqtsDyqzTMi18UsnBT2w&s=10",
+            time: "09: 40 PM",
+            trailerUrl: "https://youtu.be/qyeRiTmK-T8?si=Y1XSEn_t2nVYKTjv"
+        },
+        {
             title: "After 79 House (ផ្ទះក្រោយ៧៩)",
             genre: "Horror, Thriller, Supernatural • 1h 21m",
             price: 8.00,

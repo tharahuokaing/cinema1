@@ -19,6 +19,15 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
+            title: "Three Haunting Nights (លងបីយប់)",
+            genre: "Horror, Thriller • 1h 35m",
+            price: 8.00,
+            icon: "🏚️",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4kfS-gHG9Ul3xN0WMwHO_CCFQhlhYwmuXyJrX2hXsg&s=10",
+            time: "09: 30 PM",
+            trailerUrl: "https://youtu.be/AuFIkIk0_pA?si=gs-niNhckMuzv2LT"
+        },
+        {
             title: "The Hole (ខ្មោចប្រហោងពោះ​ )",
             genre: "Horror, Thriller • 1h 40m",
             price: 8.00,

@@ -13,8 +13,8 @@
             title: "Mannieque Wedding (ភ្លើងឆេះក្លឹបក្រោមដី)",
             genre: "Horror, Thriller • 2h 00m",
             price: 8.00,
-            icon: "🏚️",
-            imageSrc: "/images/mannieque-wedding.jpg",
+            icon: "👻",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgUFsiBAwCynZCPxzn70a6M_jyiyWClQegVwfTVTaT1g&s=10",
             time: "12: 00 PM",
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
@@ -22,10 +22,28 @@
             title: "Three Haunting Nights (លងបីយប់)",
             genre: "Horror, Thriller • 1h 35m",
             price: 8.00,
-            icon: "🏚️",
+            icon: "👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4kfS-gHG9Ul3xN0WMwHO_CCFQhlhYwmuXyJrX2hXsg&s=10",
             time: "09: 30 PM",
             trailerUrl: "https://youtu.be/AuFIkIk0_pA?si=gs-niNhckMuzv2LT"
+        },
+        {
+            title: "Disturbed (ដោតត្រូវ)",
+            genre: "Horror, Thriller • 1h 30m",
+            price: 8.00,
+            icon: "👻",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd38QdwwdDtN1nNp50xFBj-rgtBQs8UgCFCX0OObZFsA&s=10",
+            time: "08: 30 PM",
+            trailerUrl: "https://youtu.be/ne9iNYIejpY?si=j95sjX6vU5wi6SRo"
+        },
+       ​ {
+            title: "The Hole (ខ្មោចប្រហោងពោះ​)",
+            genre: "Horror, Thriller • 1h 40m",
+            price: 8.00,
+            icon: "👻",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwl0tV8KzFvLIsBsFHUNY9XsUqtsDyqzTMi18UsnBT2w&s=10",
+            time: "09: 40 PM",
+            trailerUrl: "https://youtu.be/qyeRiTmK-T8?si=Y1XSEn_t2nVYKTjv"
         },
         {
             title: "Hold to Death: Hand in Hand (ខ្មោចកាន់ដៃ)",
@@ -35,15 +53,6 @@
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUvV7d684Y4q_NAJJ1q2zBvkhRAgnCFOvgkpElrifIA&s=10",
             time: "09: 00 PM",
             trailerUrl: "https://youtu.be/xSXegACiqlg?si=-VHB4wFUYaM63Fpn"
-        },
-        {
-            title: "The Hole (ខ្មោចប្រហោងពោះ​ )",
-            genre: "Horror, Thriller • 1h 40m",
-            price: 8.00,
-            icon: "👻",
-            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwl0tV8KzFvLIsBsFHUNY9XsUqtsDyqzTMi18UsnBT2w&s=10",
-            time: "09: 40 PM",
-            trailerUrl: "https://youtu.be/qyeRiTmK-T8?si=Y1XSEn_t2nVYKTjv"
         },
         {
             title: "After 79 House (ផ្ទះក្រោយ៧៩)",
@@ -58,7 +67,7 @@
             title: "Titisan Setan 2 (ខ្មោចយកព្រលឹង)",
             genre: "Horror, Thriller, Supernatural • 1h 28m",
             price: 8.00,
-            icon: "🏢👻",
+            icon: "👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsryHicW8GXIhvkolzZmm0oZ5lDDOJGD2aQzZewDewwQ&s",
             time: "10: 00 PM",
             trailerUrl: "https://youtu.be/hee9jTj9RAs?si=jwM9jGaP_kQRH-Z9"
@@ -76,7 +85,7 @@
             title: "ហាងកែសម្ភស្សបិសាច (Demonic Beauty Salon)",
             genre: "Horror, Thriller, Supernatural • 1h 40m",
             price: 8.00,
-            icon: "🪞🩸",
+            icon: "🪞👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbrJ6ADT3aeaOQIznlZfTGSEcYGh9Z_Wp9vhXdrk9Gw&s=10",
             time: "12: 00 PM",
             trailerUrl: "https://youtu.be/RJtdMpSk6RU?si=k5i8ouIwmDcUsXiB"
@@ -94,7 +103,7 @@
             title: "The Ritual (ធ្មប់)",
             genre: "Supernatural / Thriller • 1h 45m",
             price: 5.00,
-            icon: "🔮",
+            icon: "🔮👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtaVopih8XnzUcKDF6tQzjJXJRWG8A-8uZPX4H4ZVQw&s=10",
             time: "10:15 PM",
             trailerUrl: "https://www.youtube.com/watch?v=fvuQUztg61gs"
@@ -103,7 +112,7 @@
             title: "Mind Cage (សតិជាប់ទ្រុង)",
             genre: "Psychological Thriller • 1h 38m",
             price: 5.00,
-            icon: "🧠",
+            icon: "🧠👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAuGvt9QeunLrlIVwjdgx6340wUkOD_s71VvJMT1QhJA&s=10",
             time: "11:00 PM",
             trailerUrl: "https://youtu.be/Q8uJ2jtgHOw?si=qIzGbQ9etLekhdjT"
@@ -117,7 +126,7 @@
             time: "08:30 PM",
             trailerUrl: "https://youtu.be/ORyi6tTMNqE?si=CXt0OqWkSnhs0q75"
         },
-                {
+        {
             title: "Node.js & Express Backend Security (ប្រព័ន្ធសុវត្ថិភាព Backend)",
             genre: "Cybersecurity / Backend • ",
             price: 1000000.00,

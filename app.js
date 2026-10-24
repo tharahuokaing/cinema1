@@ -19,13 +19,13 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
-            title: "Where Is My Head? (ដឃើញក្បាលខ្ញុំទេ?)",
+            title: "Where Is My Head? (ឃើញក្បាលខ្ញុំទេ?)",
             genre: "Horror, Thriller • 1h 30m",
             price: 8.00,
             icon: "👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLAKdkeA5X6Scut_bn0y1yumyg5Odb9zYYZI8-ANz_Q&s=10",
-            time: "08: 30 PM",
-            trailerUrl: "https://youtu.be/st7Jd-algfw?si=esV8v3YTVLM2GybK"
+            time: "09: 40 PM",
+            trailerUrl: "https://youtu.be/y_Q9exZY6VQ?si=6WZqnNKrSD7O1kSL"
         },
         {
             title: "Disturbed (ដោតត្រូវ)",

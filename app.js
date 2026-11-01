@@ -12,7 +12,7 @@
         {
             title: "Mannieque Wedding (ភ្លើងឆេះក្លឹបក្រោមដី)",
             genre: "Horror, Thriller • 2h 00m",
-            price: 4.00,
+            price: 8.00,
             icon: "🏚️",
             imageSrc: "/images/mannieque-wedding.jpg",
             time: "12: 00 PM",
@@ -21,7 +21,7 @@
         {
             title: "Where Is My Head? (ឃើញក្បាលខ្ញុំទេ?)",
             genre: "Horror, Thriller • 1h 30m",
-            price: 4.00,
+            price: 8.00,
             icon: "👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLAKdkeA5X6Scut_bn0y1yumyg5Odb9zYYZI8-ANz_Q&s=10",
             time: "09: 40 PM",
@@ -30,7 +30,7 @@
         {
             title: "Disturbed (ដោតត្រូវ)",
             genre: "Horror, Thriller • 1h 30m",
-            price: 4.00,
+            price: 8.00,
             icon: "👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd38QdwwdDtN1nNp50xFBj-rgtBQs8UgCFCX0OObZFsA&s=10",
             time: "08: 30 PM",
@@ -39,7 +39,7 @@
         {
             title: "Three Haunting Nights (លងបីយប់)",
             genre: "Horror, Thriller • 1h 35m",
-            price: 4.00,
+            price: 8.00,
             icon: "🏚️",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4kfS-gHG9Ul3xN0WMwHO_CCFQhlhYwmuXyJrX2hXsg&s=10",
             time: "09: 30 PM",
@@ -48,7 +48,7 @@
         {
             title: "Hold to Death: Hand in Hand (ខ្មោចកាន់ដៃ)",
             genre: "Horror, Thriller • 1h 51m",
-            price: 4.00,
+            price: 8.00,
             icon: "👻👫",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUvV7d684Y4q_NAJJ1q2zBvkhRAgnCFOvgkpElrifIA&s=10",
             time: "09: 00 PM",
@@ -57,7 +57,7 @@
         {
             title: "The Hole (ខ្មោចប្រហោងពោះ​ )",
             genre: "Horror, Thriller • 1h 40m",
-            price: 4.00,
+            price: 8.00,
             icon: "👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwl0tV8KzFvLIsBsFHUNY9XsUqtsDyqzTMi18UsnBT2w&s=10",
             time: "09: 40 PM",
@@ -66,7 +66,7 @@
         {
             title: "After 79 House (ផ្ទះក្រោយ៧៩)",
             genre: "Horror, Thriller, Supernatural • 1h 21m",
-            price: 4.00,
+            price: 8.00,
             icon: "🏢👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-p7uZulQyj78q4nchFvyvj8xsRQKIEQuFs1eSwC9SQ&s=10",
             time: "11: 00 PM",
@@ -75,7 +75,7 @@
         {
             title: "Titisan Setan 2 (ខ្មោចយកព្រលឹង)",
             genre: "Horror, Thriller, Supernatural • 1h 28m",
-            price: 4.00,
+            price: 8.00,
             icon: "🏢👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsryHicW8GXIhvkolzZmm0oZ5lDDOJGD2aQzZewDewwQ&s",
             time: "10: 00 PM",
@@ -84,7 +84,7 @@
         {
             title: "Tenement (អ្នកស្នងអាគារ)",
             genre: "Horror, Thriller, Supernatural • 1h 28m",
-            price: 4.00,
+            price: 8.00,
             icon: "🏢👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNmRzMxOKY6JjQ99ckB8Stdk8fiCv9Hjw-TnP240N1g&s=10",
             time: "12: 00 PM",
@@ -93,7 +93,7 @@
         {
             title: "ហាងកែសម្ភស្សបិសាច (Demonic Beauty Salon)",
             genre: "Horror, Thriller, Supernatural • 1h 40m",
-            price: 4.00,
+            price: 8.00,
             icon: "🪞🩸",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbrJ6ADT3aeaOQIznlZfTGSEcYGh9Z_Wp9vhXdrk9Gw&s=10",
             time: "12: 00 PM",
@@ -102,7 +102,7 @@
         {
             title: "Cyber Heist",
             genre: "Thriller / Cyberpunk • 1h 55m",
-            price: 4.00,
+            price: 8.00,
             icon: "💻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7e0B4bYhQj6EwsgOpgWah5qHTSa-4jR3crT4PA3Bx_Q&s=10",
             time: "09:00 PM",
@@ -111,7 +111,7 @@
         {
             title: "The Ritual (ធ្មប់)",
             genre: "Supernatural / Thriller • 1h 45m",
-            price: 4.00,
+            price: 8.00,
             icon: "🔮",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtaVopih8XnzUcKDF6tQzjJXJRWG8A-8uZPX4H4ZVQw&s=10",
             time: "10:15 PM",
@@ -120,7 +120,7 @@
         {
             title: "Mind Cage (សតិជាប់ទ្រុង)",
             genre: "Psychological Thriller • 1h 38m",
-            price: 4.00,
+            price: 8.00,
             icon: "🧠",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAuGvt9QeunLrlIVwjdgx6340wUkOD_s71VvJMT1QhJA&s=10",
             time: "11:00 PM",

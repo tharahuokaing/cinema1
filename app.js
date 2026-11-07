@@ -13,7 +13,7 @@
             title: "Mannieque Wedding (ភ្លើងឆេះក្លឹបក្រោមដី)",
             genre: "Horror, Thriller • 2h 00m",
             price: 8.00,
-            icon: "🏚️",
+            icon: "🏚️👫",
             imageSrc: "/images/mannieque-wedding.jpg",
             time: "12: 00 PM",
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"

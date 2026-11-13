@@ -22,7 +22,7 @@
             title: "Kuntilanak (ខ្មោចចងក4)",
             genre: "Horror, Thriller • 1h 29m",
             price: 8.00,
-            icon: "🏚️👫",
+            icon: "👻",
             imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAIuinHzwiTHDDx4-6QaPIG8uIdnr3hSP-94mgMG6Wsg&s=10",
             time: "12: 00 PM",
             trailerUrl: "https://youtu.be/9EQ29fDJtu8?si=TDSE2U9E1OJdvHKS"

@@ -19,6 +19,15 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
+            title: "The River Demon 2 (ខ្មោចទឹក វគ្គ ២)",
+            genre: "Horror, Thriller • 1h 47m",
+            price: 8.00,
+            icon: "👻💧",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MiX9lYTP6a08yXe7TwDe5oDTlx5dISlyJfDLG_rMBw&s",
+            time: "1: 00 AM",
+            trailerUrl: "https://youtu.be/Oteoszqkgig?si=NJb9jye2_Q_eBoa3"
+        },
+        {
             title: "Kuntilanak (ខ្មោចចងក4)",
             genre: "Horror, Thriller • 1h 29m",
             price: 8.00,

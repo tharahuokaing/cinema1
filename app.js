@@ -11,7 +11,7 @@
     const dailyMovies = [
         {
             title: "Mannieque Wedding (ភ្លើងឆេះក្លឹបក្រោមដី)",
-            genre: "Horror, Thriller • 2h 00m",
+            genre: "Horror, Thriller • 2h 16m",
             price: 8.00,
             icon: "🏚️👫",
             imageSrc: "/images/mannieque-wedding.jpg",

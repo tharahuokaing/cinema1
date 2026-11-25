@@ -19,6 +19,15 @@
             trailerUrl: "https://youtu.be/k3K1ZKUncJo?si=QCuTT5ZZWRjqAKvu"
         },
         {
+            title: "Crazy Love (ឆ្កួតស្នេហ៍)",
+            genre: "Thriller • 1h 56m",
+            price: 8.00,
+            icon: "🏚️👫",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tLl1WfEe4L7Na-w4zKn7-Evxgi8-7cpb2ZJPKdoeGg&s=10",
+            time: "10: 00 PM",
+            trailerUrl: "https://youtu.be/AdswnpIE9Fc?si=t6nZjnPOvAb6P07K"
+        },
+        {
             title: "The River Demon 2 (ខ្មោចទឹក វគ្គ ២)",
             genre: "Horror, Thriller • 1h 47m",
             price: 8.00,

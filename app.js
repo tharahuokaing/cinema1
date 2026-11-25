@@ -8,7 +8,7 @@
     const STORAGE_KEY = "legend_cinema_bookings";
 
     // Daily movie schedule feed
-    const dailyMovies = [
+    const dailyMovies = [ 
         {
             title: "Mannieque Wedding (ភ្លើងឆេះក្លឹបក្រោមដី)",
             genre: "Horror, Thriller • 2h 16m",
